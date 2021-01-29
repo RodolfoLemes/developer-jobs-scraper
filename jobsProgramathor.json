@@ -1,0 +1,1668 @@
+[{
+  "url": "https://programathor.com.br//jobs/13757-desenvolvedor-a-java",
+  "name": "Desenvolvedor(a) Java",
+  "details": {
+    "company": "FOLKS RH",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ / CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Testes unitários", "CSS", "Java", ".NET"]
+}, {
+  "url": "https://programathor.com.br//jobs/13863-desenvolvedor-a-salesforce-pleno",
+  "name": "Desenvolvedor(a) Salesforce Pleno",
+  "details": {
+    "company": "Pyou",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$10.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Aura", "Salesforce", "API", "Apex"]
+}, {
+  "url": "https://programathor.com.br//jobs/13860-desenvolvedor-a-front-end-sr",
+  "name": "Desenvolvedor(a) Front End SR ",
+  "details": {
+    "company": "Fox Human Capital",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$10.000",
+    "level": "Sênior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Git", "JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13857-engenheiro-de-software-pleno",
+  "name": "Engenheiro de Software Pleno",
+  "details": {
+    "company": "Pandhora Investimentos",
+    "location": "São Paulo, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["SQL", "Python", "Jenkins ", "Git", "Docker"]
+}, {
+  "url": "https://programathor.com.br//jobs/13856-desenvolvedores-full-stack-pleno-net",
+  "name": "Desenvolvedores Full Stack Pleno .Net",
+  "details": {
+    "company": "Granito",
+    "location": "Barueri, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$12.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", ".NET", "JavaScript", "HTML", "CSS", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13850-node-js-and-react-fullstack-freelance-developers-senior-europa-remoto",
+  "name": "Node.JS And React Fullstack Freelance Developers Sênior (Europa, remoto)",
+  "details": {
+    "company": "Outra Coisa",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$12.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["HTML", "JavaScript", "Node.js", "RESTful", "ReactJS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13849-javascript-freelancer-developers-senior-react-europa-remoto",
+  "name": "JavaScript Freelancer Developers Sênior (React, Europa, Remoto) ",
+  "details": {
+    "company": "Outra Coisa",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$12.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["ReactJS", "TypeScript", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13848-java-freelancer-developers-senior-europa-remoto",
+  "name": "Java Freelancer Developers Sênior (Europa, remoto)",
+  "details": {
+    "company": "Outra Coisa",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$12.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL", "Spring", "Java", "Hibernate", "EJB"]
+}, {
+  "url": "https://programathor.com.br//jobs/13847-angular-freelancer-developer-senior-europa",
+  "name": "Angular Freelancer Developer Sênior (Europa)",
+  "details": {
+    "company": "Outra Coisa",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$12.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["RESTful", "JavaScript", "HTML", "CSS", "Bootstrap", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13854-desenvolvedor-a-web",
+  "name": "Desenvolvedor(a) WEB",
+  "details": {
+    "company": "CIENTEC ACELERADORA",
+    "location": "Viçosa, MG",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "JavaScript", "HTML", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13851-desenvolvedor-a-ruby-on-rails",
+  "name": "Desenvolvedor(a) Ruby On Rails",
+  "details": {
+    "company": "Workable Solution IT",
+    "location": "São Paulo, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$7.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["HTML", "JavaScript", "PostgreSQL", "RESTful", "Ruby on Rails", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13845-desenvolvedor-a-back-end",
+  "name": "Desenvolvedor(a) Back end",
+  "details": {
+    "company": "Sagris Tecnologia",
+    "location": "ALPHAVILLE, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$15.000",
+    "level": "Sênior",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Cloud", "Docker", "Linux", "ORACLE", "Python"]
+}, {
+  "url": "https://programathor.com.br//jobs/13846-desenvolvedor-a-frontend",
+  "name": "Desenvolvedor(a) Frontend",
+  "details": {
+    "company": "Squid ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Angular", "JavaScript", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13805-desenvolvedor-a-mobile-pleno-empresa-do-reino-unido",
+  "name": "Desenvolvedor(a) Mobile Pleno (Empresa do Reino Unido)",
+  "details": {
+    "company": "DragApp",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Node.js", "JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13839-desenvolvedor-a-react-native",
+  "name": "Desenvolvedor(a) React Native",
+  "details": {
+    "company": "Zazmic Inc.",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$15.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["React Native", "JavaScript", "iOS", "Android"]
+}, {
+  "url": "https://programathor.com.br//jobs/13842-desenvolvedor-a-net-pleno",
+  "name": "Desenvolvedor(a) .Net Pleno ",
+  "details": {
+    "company": "Uppertools Tecnologia da Informação ",
+    "location": "Sorocaba, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ / CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": [".NET", "SQL", "C#", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13841-desenvolvedor-a-php-js",
+  "name": "Desenvolvedor(a) PHP / JS",
+  "details": {
+    "company": "PV Operation",
+    "location": "Florianópolis, SC",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ / CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["API", "CSS", "HTML", "JavaScript", "MySQL", "PHP"]
+}, {
+  "url": "https://programathor.com.br//jobs/13853-desenvolvedor-a-full-stack-php-angular-pleno",
+  "name": "Desenvolvedor(a) Full Stack - PHP / Angular - Pleno",
+  "details": {
+    "company": "Pix Mídia",
+    "location": "Esteio, RS",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "JavaScript", "HTML", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13852-desenvolvedor-a-full-stack-php-reactjs-vuejs-pleno",
+  "name": "Desenvolvedor(a) Full Stack - PHP / ReactJS / VueJS - Pleno",
+  "details": {
+    "company": "Pix Mídia",
+    "location": "Esteio, RS",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["Vue.js", "ReactJS", "PHP", "MySQL", "Laravel"]
+}, {
+  "url": "https://programathor.com.br//jobs/13864-desenvolvedor-a-php-pleno",
+  "name": "Desenvolvedor(a) PHP Pleno",
+  "details": {
+    "company": "Betel Tecnologia Software Ltda",
+    "location": "BELO HORIZONTE, MG",
+    "styleCompany": "Startup",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "PHP", "MySQL", "jQuery", "CSS", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13843-analista-de-desenvolvimento-de-software-senior",
+  "name": "Analista de Desenvolvimento de Software Sênior",
+  "details": {
+    "company": "Excel Consultoria Empresarial",
+    "location": "SÃO PAULO, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["SCRUM", ".NET", "JavaScript", "CSS", "C#", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13838-software-engineer",
+  "name": "Software Engineer",
+  "details": {
+    "company": "Movidesk",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$10.000",
+    "level": "Sênior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", "C#", "AWS EC2 (Elastic Compute Cloud)"]
+}, {
+  "url": "https://programathor.com.br//jobs/13804-desenvolvedor-a-full-stack-javascript-pleno-empresa-do-reino-unido",
+  "name": "Desenvolvedor(a) Full Stack JavaScript Pleno (Empresa do Reino Unido)",
+  "details": {
+    "company": "DragApp",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Node.js", "JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13802-desenvolvedor-a-front-end-pleno",
+  "name": "Desenvolvedor(a) Front-End Pleno",
+  "details": {
+    "company": "Portal D&T",
+    "location": "Salvador, BA",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "HTML", "Git", "Docker", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13798-desenvolvedor-a-php-pleno",
+  "name": "Desenvolvedor(a) PHP pleno",
+  "details": {
+    "company": "Universalpay",
+    "location": "Brasilia, DF",
+    "styleCompany": "Startup",
+    "salary": "Até R$4.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "Laravel"]
+}, {
+  "url": "https://programathor.com.br//jobs/13797-desenvolvedor-a-net-pleno",
+  "name": "Desenvolvedor(a) .Net Pleno",
+  "details": {
+    "company": "Universalpay",
+    "location": "Brasilia, DF",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": [".NET", "MySQL", "Entity framework", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13796-desenvolvedor-a-full-stack-python",
+  "name": "Desenvolvedor(a) Full Stack Python",
+  "details": {
+    "company": "Red Pill RH",
+    "location": "São Paulo, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$12.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["ReactJS", "Python", "Flask", "Django", "AWS EC2 (Elastic Compute Cloud)"]
+}, {
+  "url": "https://programathor.com.br//jobs/13765-desenvolvedor-a-java-jr",
+  "name": "DESENVOLVEDOR(A) JAVA JR",
+  "details": {
+    "company": "GZ Sistemas Imp e Com Ltda",
+    "location": "Jundiaí, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.000",
+    "level": "Júnior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Java", "Spring", "JSF", "Hibernate", "ECLiPSe"]
+}, {
+  "url": "https://programathor.com.br//jobs/13794-desenvolvedor-a-java",
+  "name": "Desenvolvedor(a) Java ",
+  "details": {
+    "company": "INVESTIGA PESQUISAS CLINICAS LTDA",
+    "location": "Campinas",
+    "styleCompany": "Grande empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "HTML", "CSS", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13791-desenvolvedor-a-php-pleno",
+  "name": "Desenvolvedor(a) PHP Pleno",
+  "details": {
+    "company": "WEBJUMP",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "Magento", "Elasticsearch"]
+}, {
+  "url": "https://programathor.com.br//jobs/13790-full-stack-developer-vue-js-laravel",
+  "name": "Full Stack Developer Vue.js/Laravel",
+  "details": {
+    "company": "Builderall",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Vue.js", "Laravel", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13789-desenvolvedor-a-java-temporario",
+  "name": "Desenvolvedor(a) Java - Temporário",
+  "details": {
+    "company": "Devninjas I.T Solutions",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$7.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Spring", "Java", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13788-desenvolvedor-a-react-senior",
+  "name": "Desenvolvedor(a) React Sênior",
+  "details": {
+    "company": "Interlink",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$7.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["TypeScript", "Redux", "ReactJS", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13786-desenvolvedor-a-pleno-analista-de-teste",
+  "name": "Desenvolvedor(a) Pleno - Analista de Teste ",
+  "details": {
+    "company": "DOT digital group ",
+    "location": "Remoto",
+    "styleCompany": "Grande empresa",
+    "salary": "Até R$7.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Testes unitários", "SQL", "PHP", "Git", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13785-pessoa-desenvolvedora-front-end-pleno",
+  "name": "Pessoa Desenvolvedora Front-End Pleno ",
+  "details": {
+    "company": "DOT digital group ",
+    "location": "Remoto",
+    "styleCompany": "Grande empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Vue", "GraphQL", "Docker"]
+}, {
+  "url": "https://programathor.com.br//jobs/13784-pessoa-desenvolvedora-ios-pleno",
+  "name": "Pessoa Desenvolvedora iOS Pleno ",
+  "details": {
+    "company": "DOT digital group ",
+    "location": "Remoto",
+    "styleCompany": "Grande empresa",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Flutter", "iOS", "Swift", "Objective-C"]
+}, {
+  "url": "https://programathor.com.br//jobs/13783-desenvolvedor-a-javascript-pleno",
+  "name": "Desenvolvedor(a) Javascript Pleno",
+  "details": {
+    "company": "Melhortaxa LTDA",
+    "location": "São Paulo, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["Vue.js", "Sass", "Redux", "JavaScript", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13782-desenvolvedor-a-mobile-junior",
+  "name": "Desenvolvedor(a) Mobile Júnior",
+  "details": {
+    "company": "IDGeo",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$3.500",
+    "level": "Júnior",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["TypeScript", "Ionic", "GraphQL"]
+}, {
+  "url": "https://programathor.com.br//jobs/13793-estagio-desenvolvedor-a-java",
+  "name": "ESTÁGIO - DESENVOLVEDOR(A) JAVA",
+  "details": {
+    "company": "Denox Tecnologia",
+    "location": "Nova Lima, MG",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "Estágio",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["CSS", "SQL", "Spring", "Java"]
+}, {
+  "url": "https://programathor.com.br//jobs/13763-programador-a-php-pleno",
+  "name": "Programador(a) PHP Pleno",
+  "details": {
+    "company": "Acelera RH",
+    "location": "São Paulo",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$10.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["CSS", "HTML", "MySQL", "PHP"]
+}, {
+  "url": "https://programathor.com.br//jobs/13779-desenvolvedor-a-laravel-full-stack-senior",
+  "name": "Desenvolvedor(a) Laravel Full Stack Sênior",
+  "details": {
+    "company": "Screencorp Desenvolvimento de Software",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Vue.js", "PHP", "Laravel", "Blade"]
+}, {
+  "url": "https://programathor.com.br//jobs/13778-desenvolvedor-a-fullstack-senior",
+  "name": "Desenvolvedor(a) Fullstack Sênior",
+  "details": {
+    "company": "Kognita Lab",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL", "ReactJS", "PHP", "Laravel"]
+}, {
+  "url": "https://programathor.com.br//jobs/13776-desenvolvedor-a-bootstrap-laravel",
+  "name": "Desenvolvedor(a) Bootstrap / Laravel ",
+  "details": {
+    "company": "Blisk Solutions",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$4.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "Laravel", "Bootstrap"]
+}, {
+  "url": "https://programathor.com.br//jobs/13759-desenvolvedor-a-web",
+  "name": "Desenvolvedor(a) WEB",
+  "details": {
+    "company": "Visualy Publicidade",
+    "location": "PIRACICABA, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.500",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "PHP", "MySQL", "HTML", "CSS", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13728-analista-desenvolvedor-a-net-core-home-office",
+  "name": "Analista Desenvolvedor(a) .NET Core (Home Office)",
+  "details": {
+    "company": "IMPLANTA INFORMÁTICA ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", "Angular", "JavaScript", ".NET", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13644-programador-a-pleno-home-office",
+  "name": "Programador(a) Pleno Home office",
+  "details": {
+    "company": "Conduzir",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SCRUM", ".NET", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13643-desenvolvedor-a-back-end-junior",
+  "name": "Desenvolvedor(a) Back-end Júnior",
+  "details": {
+    "company": "Conduzir",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.000",
+    "level": "Júnior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SCRUM", ".NET", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13772-desenvolvedor-a-react-frontend-senior",
+  "name": "Desenvolvedor(a) React FrontEnd Senior",
+  "details": {
+    "company": "3LM INFORMATICA",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["ReactJS", "JavaScript", "CSS", "Bootstrap"]
+}, {
+  "url": "https://programathor.com.br//jobs/13771-desenvolvedor-a-java-senior",
+  "name": "Desenvolvedor(a) Java Sênior",
+  "details": {
+    "company": "DB1 Group",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$8.000",
+    "level": "Sênior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Spring", "MySQL", "Java", "Git", "Docker", "Devops"]
+}, {
+  "url": "https://programathor.com.br//jobs/13770-desenvolvedor-a-ios",
+  "name": "Desenvolvedor(a) iOS",
+  "details": {
+    "company": "DB1 Group",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Testes automatizados", "Swift", "iOS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13768-desenvolvedor-a-fullstack-senior",
+  "name": "Desenvolvedor(a) Fullstack Sênior",
+  "details": {
+    "company": "Interlink",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$7.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["TypeScript", "JavaScript", "ReactJS", "PostgreSQL", "Node.js"]
+}, {
+  "url": "https://programathor.com.br//jobs/13767-desenvolvedor-a-mobile",
+  "name": "Desenvolvedor(a) Mobile",
+  "details": {
+    "company": "DS",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "Python", "iOS", "Android"]
+}, {
+  "url": "https://programathor.com.br//jobs/13766-desenvolvedor-a-full-stack-junior",
+  "name": "Desenvolvedor(a) Full Stack Júnior",
+  "details": {
+    "company": "NeshaStore",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$4.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "Node.js", "SQL", "Git", "CSS", "Bootstrap"]
+}, {
+  "url": "https://programathor.com.br//jobs/13764-desenvolvedor-a-net-pleno",
+  "name": "Desenvolvedor(a) .NET Pleno",
+  "details": {
+    "company": "Acelera RH",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": [".NET", "MySQL", "JavaScript", "API", "C#", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13756-desenvolvedor-a-plsql",
+  "name": "Desenvolvedor(a) PLSQL",
+  "details": {
+    "company": "FOLKS RH",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ / CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["PLSQL", "ORACLE", "ERP"]
+}, {
+  "url": "https://programathor.com.br//jobs/13744-desenvolvedor-a-elixir-jr",
+  "name": "Desenvolvedor(a) Elixir Jr.",
+  "details": {
+    "company": "Softaliza",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$3.000",
+    "level": "Júnior",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Git", "Elixir", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13755-desenvolvedor-a-web-mobile",
+  "name": "Desenvolvedor(a) Web/Mobile",
+  "details": {
+    "company": "FOLKS RH",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ / CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["React Native", "MongoDB", "Flutter"]
+}, {
+  "url": "https://programathor.com.br//jobs/13747-pessoa-desenvolvedora-de-software-senior-back-end",
+  "name": "Pessoa Desenvolvedora de Software Sênior - Back-End",
+  "details": {
+    "company": "bycoders_",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$15.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Devops", "Docker", "Ruby on Rails", "Elasticsearch"]
+}, {
+  "url": "https://programathor.com.br//jobs/13748-pessoa-desenvolvedora-de-software-pleno-full-stack-net",
+  "name": "Pessoa Desenvolvedora de Software Pleno - Full Stack .NET",
+  "details": {
+    "company": "bycoders_",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$7.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", ".NET", "JavaScript", "Devops"]
+}, {
+  "url": "https://programathor.com.br//jobs/13749-desenvolvedor-a-python-reinforcement-learning",
+  "name": "Desenvolvedor(a) Python (Reinforcement Learning)",
+  "details": {
+    "company": "DS",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Big Data", "Machine learning", "MongoDB", "Vue.js", "Python"]
+}, {
+  "url": "https://programathor.com.br//jobs/13750-desenvolvedor-a-python-junior",
+  "name": "Desenvolvedor(a) Python Júnior",
+  "details": {
+    "company": "BLB Ventures",
+    "location": "Ribeirão Preto, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Git", "SQL", "Python"]
+}, {
+  "url": "https://programathor.com.br//jobs/13751-desenvolvedor-a-javascript-junior",
+  "name": "Desenvolvedor(a) Javascript Júnior",
+  "details": {
+    "company": "BLB Ventures",
+    "location": "Ribeirão Preto, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", "HTML", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13752-desenvolvedor-a-javascript-python-pleno",
+  "name": "Desenvolvedor(a) Javascript / Python Pleno",
+  "details": {
+    "company": "BLB Ventures",
+    "location": "Ribeirão Preto, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL", "CSS", "Python", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13753-estagiario-a-javascript",
+  "name": "Estagiário(a) Javascript",
+  "details": {
+    "company": "BLB Ventures",
+    "location": "Ribeirão Preto, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$2.000",
+    "level": "Júnior",
+    "contractType": "Estágio",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", "HTML", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13754-estagiario-a-python",
+  "name": "Estagiário(a) Python",
+  "details": {
+    "company": "BLB Ventures",
+    "location": "Ribeirão Preto, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$2.000",
+    "level": "Júnior",
+    "contractType": "Estágio",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Git", "SQL", "Python"]
+}, {
+  "url": "https://programathor.com.br//jobs/13769-front-end-developer-senior",
+  "name": "Front-end Developer Senior",
+  "details": {
+    "company": "TamoVip",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["TypeScript", "Styled-Components", "ReactJS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13781-desenvolvedor-a-react-node-pleno-remoto",
+  "name": "Desenvolvedor(a) React/Node Pleno (remoto)",
+  "details": {
+    "company": "Viver de Blog",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", "MySQL", "ReactJS", "Node.js", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13743-desenvolvedor-a-mobile",
+  "name": "Desenvolvedor(a) Mobile",
+  "details": {
+    "company": "Rede de Ensino Monster",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Git", "React Native", "iOS", "Android"]
+}, {
+  "url": "https://programathor.com.br//jobs/13741-desenvolvedor-a-ruby-on-rails-senior",
+  "name": "Desenvolvedor(a) Ruby on Rails Sênior",
+  "details": {
+    "company": "Zazmic Inc.",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$15.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Ruby on Rails", "Redis", "PostgreSQL"]
+}, {
+  "url": "https://programathor.com.br//jobs/13740-programador-a-laravel-experiencia-minima-de-5-anos",
+  "name": "Programador(a) Laravel (experiência mínima de 5 anos)",
+  "details": {
+    "company": "BACKET - NOWIT",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.500",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Laravel", "JavaScript", "CSS", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13739-programador-a-delphi-pj",
+  "name": "Programador(a) Delphi PJ",
+  "details": {
+    "company": "Delta Sistemas",
+    "location": "SÃO PAULO, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["MySQL", "ERP", "Delphi"]
+}, {
+  "url": "https://programathor.com.br//jobs/13738-desenvolvedor-a-python-senior",
+  "name": "Desenvolvedor(a) Python Sênior",
+  "details": {
+    "company": "Indiana Technologies",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$12.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Flask", "Redis", "SQL", "Python", "AWS S3", "Elasticsearch"]
+}, {
+  "url": "https://programathor.com.br//jobs/13737-desenvolvedor-a-react-senior",
+  "name": "Desenvolvedor(a) React Sênior",
+  "details": {
+    "company": "Mutuus Seguros",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$6.000",
+    "level": "Sênior",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["ReactJS", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13736-desenvolvedor-a-java-senior",
+  "name": "Desenvolvedor(a) JAVA Sênior",
+  "details": {
+    "company": "Mutuus Seguros",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$6.000",
+    "level": "Sênior",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Java", "Spring", "MySQL", "Google Cloud"]
+}, {
+  "url": "https://programathor.com.br//jobs/13735-desenvolvedor-a-php-full-stack-pleno",
+  "name": "Desenvolvedor(a) PHP Full Stack Pleno",
+  "details": {
+    "company": "ID Company Tecnologia",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$7.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Ajax", "PostgreSQL", "PHP", "JavaScript", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13652-desenvolvedor-a-full-stack-javascript-pleno",
+  "name": "Desenvolvedor(a) Full Stack JavaScript Pleno",
+  "details": {
+    "company": "BeCapital",
+    "location": "Rio de Janeiro, RJ",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Testes unitários", "Testes automatizados", "SCRUM", "React Native", "ReactJS", "Node.js"]
+}, {
+  "url": "https://programathor.com.br//jobs/13718-programador-a-de-sistemas-i",
+  "name": "Programador(a) de Sistemas I",
+  "details": {
+    "company": "Lojas Koerich",
+    "location": "Florianópolis, SC",
+    "styleCompany": "Grande empresa",
+    "salary": "Até R$4.000",
+    "level": "Júnior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "Java", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13721-desenvolvedor-a-php-vuejs",
+  "name": "Desenvolvedor(a) PHP / Vuejs",
+  "details": {
+    "company": "Include Tecnologia",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$2.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Vue.js", "PHP", "Laravel"]
+}, {
+  "url": "https://programathor.com.br//jobs/13722-desenvolvedor-a-php-pleno",
+  "name": "Desenvolvedor(a) PHP Pleno",
+  "details": {
+    "company": "JHE Consultores Associados",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "jQuery", "HTML", "Git", "Bootstrap"]
+}, {
+  "url": "https://programathor.com.br//jobs/13723-desenvolvedor-a-php-junior",
+  "name": "Desenvolvedor(a) PHP Júnior",
+  "details": {
+    "company": "JHE Consultores Associados",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "jQuery", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13734-desenvolvedor-a-java-senior",
+  "name": "Desenvolvedor(a) Java Sênior",
+  "details": {
+    "company": "Cleartech",
+    "location": "Barueri, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["Java", "Spring", "PLSQL", "Maven POM", "JavaScript", "EJB"]
+}, {
+  "url": "https://programathor.com.br//jobs/13729-desenvolvedor-a-senior-back-end",
+  "name": "Desenvolvedor(a) Sênior Back-end",
+  "details": {
+    "company": "Matchbox Brasil",
+    "location": "São Paulo, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$8.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["AWS EC2 (Elastic Compute Cloud)", "RESTful", "Node.js", "MongoDB", "GraphQL", "AWS S3"]
+}, {
+  "url": "https://programathor.com.br//jobs/13730-desenvolvedor-a-fullstack-pleno-react-native-php",
+  "name": "Desenvolvedor(a) Fullstack Pleno (React Native / PHP)",
+  "details": {
+    "company": "91 Seguros",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "React Native", "MySQL", "CodeIgniter"]
+}, {
+  "url": "https://programathor.com.br//jobs/13731-desenvolvedor-net-core-java-sr",
+  "name": "Desenvolvedor (.Net Core/Java) Sr.",
+  "details": {
+    "company": "Kalendae Soluções em Gestão",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["ORACLE", "Docker", "Java", ".NET"]
+}, {
+  "url": "https://programathor.com.br//jobs/13733-desenvolvedor-a-python-pleno-devops",
+  "name": "Desenvolvedor(a) Python Pleno (+ DevOps)",
+  "details": {
+    "company": "Cleartech",
+    "location": "Barueri, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["SQL", "RESTful", "Python", "NoSQL", "Linux", "HTTP"]
+}, {
+  "url": "https://programathor.com.br//jobs/13732-desenvolvedor-a-engenheiro-full-stack-junior",
+  "name": "Desenvolvedor(a) / Engenheiro Full Stack Júnior",
+  "details": {
+    "company": "RIO analytics",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Júnior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Angular", "Python", "JavaScript", "HTML", "Docker", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13719-desenvolvedor-a-backend-pleno-python-fintask",
+  "name": "Desenvolvedor(a) Backend Pleno Python - Fintask",
+  "details": {
+    "company": "Finxi",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["RESTful", "Python", "Docker", "Django"]
+}, {
+  "url": "https://programathor.com.br//jobs/13716-desenvolvedor-a-php",
+  "name": "Desenvolvedor(a) PHP",
+  "details": {
+    "company": "Collinson Consultoria em Fidelização Ltda.",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$10.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["RESTful", "PHP", "MySQL", "JavaScript", "Git", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13715-desenvolvedor-a-python-jr",
+  "name": "Desenvolvedor(a) Python Jr",
+  "details": {
+    "company": "ATX Automation",
+    "location": "Barueri, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Júnior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Machine learning", "SQL", "Python"]
+}, {
+  "url": "https://programathor.com.br//jobs/13711-programador-a-desenvolvedor-a-back-end-pleno",
+  "name": "Programador(a)/Desenvolvedor(a) Back-End Pleno",
+  "details": {
+    "company": "SUPER VAREJÃO CARAÇA LTDA",
+    "location": "Contagem",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Linux", "ORACLE", "MySQL", "Java", "Delphi"]
+}, {
+  "url": "https://programathor.com.br//jobs/13713-desenvolvedor-a-full-stack",
+  "name": "Desenvolvedor(a) Full Stack ",
+  "details": {
+    "company": "Arizona ",
+    "location": "Remoto",
+    "styleCompany": "Grande empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Java", "Backbone.js", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13712-desenvolvedor-a-back-end-javascript-senior",
+  "name": "Desenvolvedor(a) Back-end Javascript Sênior",
+  "details": {
+    "company": "Squid ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$10.000",
+    "level": "Sênior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SCRUM", "Node.js", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13709-desenvolvedor-a-back-end-net-core",
+  "name": "Desenvolvedor(a) Back End .Net Core ",
+  "details": {
+    "company": "DOMVS Service It",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": [".NET", "SQL", "Linux", "Git", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13702-desenvolvedor-a-web",
+  "name": "Desenvolvedor(a) Web",
+  "details": {
+    "company": "Arizona ",
+    "location": "São Paulo, SP ",
+    "styleCompany": "Grande empresa",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["Photoshop", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13666-desenvolvedor-a-php",
+  "name": "Desenvolvedor(a) PHP",
+  "details": {
+    "company": "Rede de Ensino Monster",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ / CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "Laravel", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13708-desenvolvedor-a-front-end",
+  "name": "Desenvolvedor(a) Front End ",
+  "details": {
+    "company": "DOMVS Service It",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", "HTML", "ReactJS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13707-desenvolvedor-a-java-pleno",
+  "name": "Desenvolvedor(a) Java Pleno",
+  "details": {
+    "company": "Metaway TI",
+    "location": "Bento Gonçalves, RS",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$4.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", "Java", "SQL", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13706-desenvolvedor-a-nodejs-pleno",
+  "name": "Desenvolvedor(a) NodeJS Pleno",
+  "details": {
+    "company": "Egadnet",
+    "location": "Timbó, SC",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["TypeScript", "Node.js", "MongoDB"]
+}, {
+  "url": "https://programathor.com.br//jobs/13705-desenvolvedor-a-react-native-home-office",
+  "name": "Desenvolvedor(a) React Native – Home Office ",
+  "details": {
+    "company": "Techtools Ventures",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["React Native", "JavaScript", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13703-estagio-em-php",
+  "name": "Estagio em PHP",
+  "details": {
+    "company": "Conekta Logistica Eletrônica Eireli",
+    "location": "Belo Horizonte, MG",
+    "styleCompany": "Grande empresa",
+    "salary": "Até R$1.500",
+    "level": "Júnior",
+    "contractType": "Estágio",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Bootstrap", "jQuery", "SQL Server", "PHP"]
+}, {
+  "url": "https://programathor.com.br//jobs/13689-desenvolvedor-a-front-end-pleno",
+  "name": "Desenvolvedor(a) Front-end Pleno",
+  "details": {
+    "company": "Bloga Propaganda",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "HTML", "CSS", "Bootstrap", "API", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13690-programador-a-python-flask-pleno",
+  "name": "Programador(a) Python Flask Pleno",
+  "details": {
+    "company": "DS",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$4.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["MongoDB", "Git", "Docker", "Python", "NoSQL", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13477-desenvolvedor-a-python-datascientist",
+  "name": "Desenvolvedor(a) Python (Datascientist)",
+  "details": {
+    "company": "Grupo LPJ",
+    "location": "Belo Horizonte, MG",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$10.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Python", "Data science", "Cloud"]
+}, {
+  "url": "https://programathor.com.br//jobs/13691-desenvolvedor-a-python-pleno-analista-de-software",
+  "name": " Desenvolvedor(a) Python Pleno - Analista de Software",
+  "details": {
+    "company": "DS",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Python", "iOS", "HTTP", "Administrador de sistema"]
+}, {
+  "url": "https://programathor.com.br//jobs/13710-desenvolvedor-a-angular",
+  "name": "Desenvolvedor(a) Angular",
+  "details": {
+    "company": "ATM Tecnologia",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Angular", "Bootstrap", "Git", "jQuery"]
+}, {
+  "url": "https://programathor.com.br//jobs/13710-desenvolvedor-a-angular",
+  "name": "Desenvolvedor(a) Angular",
+  "details": {
+    "company": "ATM Tecnologia",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Angular", "Bootstrap", "Git", "jQuery"]
+}, {
+  "url": "https://programathor.com.br//jobs/13704-programador-net-core-c-pleno",
+  "name": "Programador .Net Core, C#; Pleno",
+  "details": {
+    "company": "Ecoscard",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$4.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", ".NET", "Entity framework", "C#", "C"]
+}, {
+  "url": "https://programathor.com.br//jobs/13701-desenvolvedor-a-node-js",
+  "name": "Desenvolvedor(a) Node.js",
+  "details": {
+    "company": "Microduino",
+    "location": "Curitiba, PR",
+    "styleCompany": "Startup",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Node.js", "MongoDB", "Docker"]
+}, {
+  "url": "https://programathor.com.br//jobs/13699-desenvolvedor-a-front-end-jr",
+  "name": "Desenvolvedor(a) Front-End Jr",
+  "details": {
+    "company": "Forza Capital",
+    "location": "Campinas, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["SCSS", "Sass", "JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13698-desenvolvedor-a-back-end-jr",
+  "name": "Desenvolvedor(a) Back-End Jr",
+  "details": {
+    "company": "Forza Capital",
+    "location": "Campinas, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", ".NET", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13696-java-backend-developer",
+  "name": "Java Backend Developer",
+  "details": {
+    "company": "ília Digital ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Spring", "SQL", "RESTful", "MongoDB", "Java", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13695-desenvolvedor-a-back-end",
+  "name": "Desenvolvedor(a) Back-End",
+  "details": {
+    "company": "Spot Metrics",
+    "location": "Rio de Janeiro, RJ",
+    "styleCompany": "Startup",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["Spring", "Java", "Git", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13694-net-backend-developer",
+  "name": ".NET Backend Developer",
+  "details": {
+    "company": "ília Digital ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["NoSQL", "RESTful", ".NET", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13693-back-end-developer-salesforce-commerce-cloud",
+  "name": "Back End Developer - Salesforce Commerce Cloud",
+  "details": {
+    "company": "OSF Global Services",
+    "location": "Remoto",
+    "styleCompany": "Grande empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Cloud", "Salesforce", "SQL", "API", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13655-programador-a-php-junior",
+  "name": "Programador(a) PHP - Júnior",
+  "details": {
+    "company": "Forma Sites",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$2.000",
+    "level": "Júnior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["MySQL", "PHP", "JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13674-desenvolvedor-a-java-versao-8",
+  "name": "Desenvolvedor(a) Java (versão 8+)",
+  "details": {
+    "company": "Tibox Innovations ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Spring", "PostgreSQL", "JSON", "Java", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13688-desenvolvedor-a-full-stack-react-nodejs-pleno",
+  "name": "Desenvolvedor(a) Full Stack React/NodeJs Pleno",
+  "details": {
+    "company": "Negócio Simples Software Ltda",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["CSS", "PostgreSQL", "ReactJS", "Node.js", "HTML", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13514-desenvolvedor-a-java-full-stack-pleno",
+  "name": "Desenvolvedor(a) Java Full Stack - Pleno",
+  "details": {
+    "company": "ZenCard",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaEE", "Java", "PostgreSQL", "API", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13686-desenvolvedor-a-back-end-junior",
+  "name": "Desenvolvedor(a) Back-End Júnior",
+  "details": {
+    "company": "Spot Metrics",
+    "location": "Rio de Janeiro, RJ",
+    "styleCompany": "Startup",
+    "level": "CLT",
+    "contractType": "Não aceita candidatos de fora"
+  },
+  "tags": ["API", "RESTful", "Node.js", "JavaScript"]
+}, {
+  "url": "https://programathor.com.br//jobs/13685-desenvolvedor-a-full-stack",
+  "name": "Desenvolvedor(a) Full Stack",
+  "details": {
+    "company": "Expression Soluções para Internet",
+    "location": "Londrina, PR",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$3.000",
+    "level": "Pleno",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["PHP", "MySQL", "JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13683-nodejs-developer",
+  "name": "NodeJs Developer",
+  "details": {
+    "company": "Media Monks",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Cloud", "Git", "Node.js"]
+}, {
+  "url": "https://programathor.com.br//jobs/13682-desenvolvedor-a-full-stack-asp-net-c-pleno",
+  "name": "Desenvolvedor(a) Full Stack ASP.NET/C# Pleno ",
+  "details": {
+    "company": "Softium Informática Ltda ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", ".NET", "JavaScript", "HTML", "CSS", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13681-desenvolvedor-a-full-stack-pleno",
+  "name": "Desenvolvedor(a) Full Stack Pleno",
+  "details": {
+    "company": "Happmobi",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$8.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["NoSQL", "SQL", "Node.js", "API", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13667-tech-lead",
+  "name": "Tech Lead",
+  "details": {
+    "company": "Fox Human Capital",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$15.000",
+    "level": "Sênior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Go", "Node.js", "Python"]
+}, {
+  "url": "https://programathor.com.br//jobs/13579-programador-a-frontend-ui-ux",
+  "name": "Programador(a) Frontend - UI/UX",
+  "details": {
+    "company": "Westpoint",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "PJ",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "HTML", "CSS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13630-programador-a-de-sistemas-junior",
+  "name": "Programador(a) de Sistemas Júnior",
+  "details": {
+    "company": "Sgi Sistemas",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$2.000",
+    "level": "Júnior",
+    "contractType": "CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Web Services", "Web API", "Ruby on Rails"]
+}, {
+  "url": "https://programathor.com.br//jobs/13663-programador-a-delphi-junior",
+  "name": "Programador(a) Delphi Júnior",
+  "details": {
+    "company": "Areatec Tecnologia",
+    "location": "Araras, São Paulo",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Delphi", "SQL Server", "Pascal"]
+}, {
+  "url": "https://programathor.com.br//jobs/13664-dev-net-core-outsourcing-santander",
+  "name": "DEV .Net Core - outsourcing Santander",
+  "details": {
+    "company": "MJV Technology & Innovation",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$10.000",
+    "level": "Sênior",
+    "contractType": "CLT",
+    "outsideCandidates": "Não aceita candidatos de fora"
+  },
+  "tags": ["Testes unitários", "RESTful", ".NET", "AWS S3", "API"]
+}, {
+  "url": "https://programathor.com.br//jobs/13672-desenvolvedor-a-net-angular",
+  "name": "Desenvolvedor(a) .Net/Angular",
+  "details": {
+    "company": "NOVA HARES ASSESSORIA EMPRESARIAL LTDA",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$15.000",
+    "level": "Sênior",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", ".NET", "C#", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13676-ios-developer",
+  "name": "iOS Developer",
+  "details": {
+    "company": "ília Digital ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["Testes unitários", "Swift", "iOS"]
+}, {
+  "url": "https://programathor.com.br//jobs/13658-desenvolvedor-a-angular",
+  "name": "DESENVOLVEDOR(A) ANGULAR",
+  "details": {
+    "company": "Optimum Supply",
+    "location": "Remoto",
+    "styleCompany": "Startup",
+    "salary": "Até R$4.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["Docker", "Git", "Java", "Spring", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13665-angular-frontend-developer",
+  "name": "Angular Frontend Developer",
+  "details": {
+    "company": "ília Digital ",
+    "location": "Remoto",
+    "styleCompany": "Pequena ou Média empresa",
+    "level": "CLT",
+    "contractType": "Aceita candidatos de fora"
+  },
+  "tags": ["JavaScript", "HTML", "Git", "CSS", "API", "Angular"]
+}, {
+  "url": "https://programathor.com.br//jobs/13662-desenvolvedor-a-javascript-python-pleno",
+  "name": "Desenvolvedor(a) Javascript/Python Pleno",
+  "details": {
+    "company": "Veroo Cafés",
+    "location": "Ribeirão Preto, SP",
+    "styleCompany": "Startup",
+    "salary": "Até R$7.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL", "CSS", "Python", "JavaScript", "Git"]
+}, {
+  "url": "https://programathor.com.br//jobs/13661-desenvolvedor-a-c-net-pleno",
+  "name": "Desenvolvedor(a) - C# / .NET - Pleno",
+  "details": {
+    "company": "Digital Banking Solutions",
+    "location": "São Paulo, SP",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$6.000",
+    "level": "Pleno",
+    "contractType": "PJ",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", "JavaScript", "HTML", ".NET", "C#"]
+}, {
+  "url": "https://programathor.com.br//jobs/13660-desenvolvedor-a-net-full-stack-florianopolis-sc",
+  "name": "Desenvolvedor(a) .Net Full Stack [Florianópolis/SC]",
+  "details": {
+    "company": "LINEDATA SISTEMAS E GEOPROCESSAMENTO LTDA",
+    "location": "FLORIANÓPOLIS, SC",
+    "styleCompany": "Pequena ou Média empresa",
+    "salary": "Até R$5.000",
+    "level": "Pleno",
+    "contractType": "PJ / CLT",
+    "outsideCandidates": "Aceita candidatos de fora"
+  },
+  "tags": ["SQL Server", ".NET", "JavaScript", "HTML", "Entity framework", "CSS"]
+}]
