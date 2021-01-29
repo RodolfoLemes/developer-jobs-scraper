@@ -1,0 +1,15 @@
+{
+  "name": "developer-jobs-scraper",
+  "version": "1.0.0",
+  "description": "Um crawler para adquirir vagas de desenvolvedor em sites específicos",
+  "main": "src/index.js",
+  "author": "Rodolfo Lemes",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.4.0"
+  }
+}
