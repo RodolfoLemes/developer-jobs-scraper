@@ -1,0 +1,16 @@
+{
+  "VER VAGAS": "/jobs",
+  "SOU EMPRESA": "/recruiter",
+  "": "/users/sign_up",
+  "CLT": "contract_type=CLT",
+  "PJ": "contract_type=PJ",
+  "Estágio": "contract_type=Est%C3%A1gio",
+  "Júnior": "expertise=J%C3%BAnior",
+  "Pleno": "expertise=Pleno",
+  "Sênior": "expertise=S%C3%AAnior",
+  "Startup": "company_type=Startup",
+  "Pequena ou Média empresa": "company_type=Pequena+ou+M%C3%A9dia+empresa",
+  "Grande empresa": "company_type=Grande+empresa",
+  "Remoto": "remoto=true",
+  "Aceita candidatos de fora": "accepts_outer_candidates=true"
+}
